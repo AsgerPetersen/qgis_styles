@@ -1,0 +1,224 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol clip_to_extent="1" alpha="1" tags="Hand drawn,Sketchy" name="Hand drawn pencil" force_rhr="0" type="line">
+      <layer locked="0" enabled="1" class="MarkerLine" pass="0">
+        <prop k="average_angle_length" v="4"/>
+        <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="average_angle_unit" v="MM"/>
+        <prop k="interval" v="0.07"/>
+        <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="ring_filter" v="0"/>
+        <prop k="rotate" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties" type="Map">
+              <Option name="offset" type="Map">
+                <Option value="false" name="active" type="bool"/>
+                <Option value="randf(0,0.2)" name="expression" type="QString"/>
+                <Option value="3" name="type" type="int"/>
+              </Option>
+            </Option>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+        <symbol clip_to_extent="1" alpha="1" name="@Hand drawn pencil@0" force_rhr="0" type="marker">
+          <layer locked="0" enabled="1" class="SimpleMarker" pass="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="89,89,89,155"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="35,35,35,255"/>
+            <prop k="outline_style" v="no"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="0.3"/>
+            <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" name="name" type="QString"/>
+                <Option name="properties" type="Map">
+                  <Option name="offset" type="Map">
+                    <Option value="true" name="active" type="bool"/>
+                    <Option value="array(randf_normal(0,0.2),randf_normal(0,0.2))" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                  <Option name="size" type="Map">
+                    <Option value="false" name="active" type="bool"/>
+                    <Option value="randf(0.1,0.4)" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                </Option>
+                <Option value="collection" name="type" type="QString"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" alpha="1" tags="Hand drawn,Sketchy" name="Hand drawn pencil 2" force_rhr="0" type="line">
+      <layer locked="0" enabled="1" class="MarkerLine" pass="0">
+        <prop k="average_angle_length" v="4"/>
+        <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="average_angle_unit" v="MM"/>
+        <prop k="interval" v="0.105"/>
+        <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="ring_filter" v="0"/>
+        <prop k="rotate" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties" type="Map">
+              <Option name="offset" type="Map">
+                <Option value="false" name="active" type="bool"/>
+                <Option value="randf(0,0.2)" name="expression" type="QString"/>
+                <Option value="3" name="type" type="int"/>
+              </Option>
+            </Option>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+        <symbol clip_to_extent="1" alpha="1" name="@Hand drawn pencil 2@0" force_rhr="0" type="marker">
+          <layer locked="0" enabled="1" class="SimpleMarker" pass="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="89,89,89,155"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="35,35,35,255"/>
+            <prop k="outline_style" v="no"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="0.45"/>
+            <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" name="name" type="QString"/>
+                <Option name="properties" type="Map">
+                  <Option name="offset" type="Map">
+                    <Option value="true" name="active" type="bool"/>
+                    <Option value="array(randf_normal(0,0.3),randf_normal(0,0.3))" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                  <Option name="size" type="Map">
+                    <Option value="false" name="active" type="bool"/>
+                    <Option value="randf(0.1,0.4)" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                </Option>
+                <Option value="collection" name="type" type="QString"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol clip_to_extent="1" alpha="1" tags="Hand drawn,Sketchy" name="Hand drawn pencil 3" force_rhr="0" type="line">
+      <layer locked="0" enabled="1" class="MarkerLine" pass="0">
+        <prop k="average_angle_length" v="4"/>
+        <prop k="average_angle_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="average_angle_unit" v="MM"/>
+        <prop k="interval" v="0.14"/>
+        <prop k="interval_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MM"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MM"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="placement" v="interval"/>
+        <prop k="ring_filter" v="0"/>
+        <prop k="rotate" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" name="name" type="QString"/>
+            <Option name="properties" type="Map">
+              <Option name="offset" type="Map">
+                <Option value="false" name="active" type="bool"/>
+                <Option value="randf(0,0.2)" name="expression" type="QString"/>
+                <Option value="3" name="type" type="int"/>
+              </Option>
+            </Option>
+            <Option value="collection" name="type" type="QString"/>
+          </Option>
+        </data_defined_properties>
+        <symbol clip_to_extent="1" alpha="1" name="@Hand drawn pencil 3@0" force_rhr="0" type="marker">
+          <layer locked="0" enabled="1" class="SimpleMarker" pass="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="89,89,89,155"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="35,35,35,255"/>
+            <prop k="outline_style" v="no"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="0.6"/>
+            <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" name="name" type="QString"/>
+                <Option name="properties" type="Map">
+                  <Option name="offset" type="Map">
+                    <Option value="true" name="active" type="bool"/>
+                    <Option value="array(randf_normal(0,0.4),randf_normal(0,0.4))" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                  <Option name="size" type="Map">
+                    <Option value="false" name="active" type="bool"/>
+                    <Option value="randf(0.1,0.4)" name="expression" type="QString"/>
+                    <Option value="3" name="type" type="int"/>
+                  </Option>
+                </Option>
+                <Option value="collection" name="type" type="QString"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+</qgis_style>
