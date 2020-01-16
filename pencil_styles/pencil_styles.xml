@@ -17,7 +17,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="ring_filter" v="0"/>
-        <prop k="rotate" v="1"/>
+        <prop k="rotate" v="0"/>
         <data_defined_properties>
           <Option type="Map">
             <Option value="" name="name" type="QString"/>
@@ -89,7 +89,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="ring_filter" v="0"/>
-        <prop k="rotate" v="1"/>
+        <prop k="rotate" v="0"/>
         <data_defined_properties>
           <Option type="Map">
             <Option value="" name="name" type="QString"/>
@@ -161,7 +161,7 @@
         <prop k="offset_unit" v="MM"/>
         <prop k="placement" v="interval"/>
         <prop k="ring_filter" v="0"/>
-        <prop k="rotate" v="1"/>
+        <prop k="rotate" v="0"/>
         <data_defined_properties>
           <Option type="Map">
             <Option value="" name="name" type="QString"/>
