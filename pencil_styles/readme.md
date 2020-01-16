@@ -2,7 +2,7 @@
 
 ![Example map using pencil styles for lines, polygon outlines and polygon line pattern fill](example.png)
 
-The file [pencil_styles.xml](pencil_styles.xml) contains three pencil like line styles for QGIS: ![Hand drawn pencil 2.png](Hand%20drawn%20pencil.png), ![Hand drawn pencil 2.png](Hand%20drawn%20pencil%202.png) and ![Hand drawn pencil 3.png](Hand%20drawn%20pencil%203.png).
+The file [pencil_styles.xml](pencil_styles.xml) contains three pencil like line styles for QGIS: ![Hand drawn pencil 2.png](Hand%20drawn%20pencil.png), ![Hand drawn pencil 2.png](Hand%20drawn%20pencil%202.png) and ![Hand drawn pencil 3.png](Hand%20drawn%20pencil%203.png). See them in action in the example above.
 
 Install by opening the `Style Manager` and clicking `Import`. Then import this URL `https://github.com/AsgerPetersen/qgis_styles/pencil_styles/pencil_styles.xml`.
 
